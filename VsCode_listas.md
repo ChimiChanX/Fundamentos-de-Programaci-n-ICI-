@@ -1,4 +1,4 @@
-# VS code
+# VS code python
 ## listas
 
 mi_lista = [1,2,3,4]
