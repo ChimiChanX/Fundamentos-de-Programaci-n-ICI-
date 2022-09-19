@@ -105,7 +105,7 @@ encabezado=["Nombre","Programacion funcional","Metodos numericos","Estructura de
 def reporte (fmt):
     print(f"{encabezado[0]:^{fmt}}{encabezado[1]:^{fmt}}{encabezado[2]:^{fmt}}{encabezado[3]:^{fmt}}{encabezado[4]:^{fmt}}")
     for i in range (5):
-          print(f"{alumnes[i]:^{fmt}}{name_materia[i]:^{fmt}}{name_materia2[i]:^{fmt}}{name_materia3[i]:^{fmt}}{name_materia4[i]:*^{fmt}}")
+          print(f"{alumnos[i]:^{fmt}}{name_materia[i]:^{fmt}}{name_materia2[i]:^{fmt}}{name_materia3[i]:^{fmt}}{name_materia4[i]:*^{fmt}}")
 reporte(20)
 alumnos=["Jose","Miguel","jason","Jan","Dani"]
 name_materia=[6,8,6,8,7]
