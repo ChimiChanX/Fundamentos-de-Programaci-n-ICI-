@@ -1,4 +1,4 @@
-#  programas echos en clase
+#  programas echos en clase python
 ## Jupyter 
 ### interpolacion de cadenas 
 name = "alex"
